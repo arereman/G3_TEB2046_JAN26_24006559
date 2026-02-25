@@ -11,7 +11,7 @@ This repository contains lab tasks aand assignments for the TEB2043 Data Science
 | 3/2/2026 | 25/2/2026 | Lab 3 | - [Q1](LabTask/Lab3/Q1.R) <br> - [Q2](LabTask/Lab3/Q2.R) <br> - [Q3](LabTask/Lab3/Q3.R) |
 | 9/2/2026 | 25/2/2026 | Lab 4 | - [Q1](LabTask/Lab4/Q1.R) <br> - [Q2](LabTask/Lab4/Q2.R) <br> - [Q3](LabTask/Lab4/Q3.R) |
 | 16/2/2026 | 25/2/2026 | Lab 5 | - [Q1](LabTask/Lab5/Q1.R) <br> - [Q2](LabTask/Lab5/Q2.R) <br> - [Q3](LabTask/Lab5/Q3.R) |
-| 23/2/2026 | 25/2/2026 | Lab 6 | - [Q1](LabTask/Lab6/Q1.R) <br> - [Q2](LabTask/Lab6/Q2.R) <br> - [Q3](LabTask/Lab6/Q3.R) <br> - [Q3](LabTask/Lab6/Q4.R) |
+| 23/2/2026 | 25/2/2026 | Lab 6 | - [Q1](LabTask/Lab6/Q1.R) <br> - [Q2](LabTask/Lab6/Q2.R) <br> - [Q3](LabTask/Lab6/Q3.R) <br> - [Q4](LabTask/Lab6/Q4.R) |
 
 ## 🗓️ Lab Assignments
 
